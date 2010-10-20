@@ -1,0 +1,6 @@
+#!/bin/sh
+
+spectre testbench.scs
+
+
+this is a test added line
