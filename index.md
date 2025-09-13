@@ -1,4 +1,4 @@
-a test
+a test 2
 
 # Interactive Rectangle Demo
 
@@ -23,3 +23,4 @@ Click the button to change the color of the rectangle:
     });
   });
 </script>
+
